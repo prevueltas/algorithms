@@ -4,4 +4,5 @@ This repo contains mainly an implementation of the algorithms described in the b
 Bhargava, but also inspired from other sources that I reference as comments.
 
 * [Selection Sort](/selection_sort.py) - O(n^2)
+* [Quicksort](/quicksort.py) - O(n * log n)
 * [K-nearest-neighbors or KNN](/knn.py) - O(n * log n)
